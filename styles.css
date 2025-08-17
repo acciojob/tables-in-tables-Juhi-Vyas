@@ -1,17 +1,28 @@
+th{
+	border: 1px solid black;
+}
+td{
+	border: 1px solid black;
+}
+
+.table{
+	border: 1px solid black;
+}
+
 .table2{
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 .table1{
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 .table3{
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 .table4{
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 
